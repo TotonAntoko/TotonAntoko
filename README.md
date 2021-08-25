@@ -6,7 +6,7 @@
       <img height="200em" src="https://github-readme-stats.vercel.app/api?username=TotonAntoko&show_icons=true&hide_border=true" /> 
     </td>
     <td> 
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TotonAntoko&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=Jupyter Notebook"/> 
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TotonAntoko&show_icons=true&hide_border=true&layout=compact&langs_count=10&hide=Jupyter Notebook"/> 
     </td>
   </tr>
 <table>
