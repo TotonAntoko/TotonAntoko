@@ -1,15 +1,11 @@
 ### Hi there 👋 
 
-<table width="100%">
-  <tr>
-    <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=TotonAntoko&show_icons=true&hide_border=true" /> 
-    </td>
-    <td> 
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TotonAntoko&show_icons=true&hide_border=true&layout=compact&langs_count=10&hide=Jupyter%20Notebook"/> 
-    </td>
-  </tr>
-<table>
+<a href="https://github.com/totonantoko/github-stats">
+  <p align='center'>
+    <img width="40%" src="https://github.com/totonantoko/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only"/>
+    <img width="40%" src="https://github.com/totonantoko/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only"/>
+  </p>
+</a>
 <!--
 **TotonAntoko/TotonAntoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
