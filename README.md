@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 <a href="https://github.com/totonantoko/github-stats">
-  <p align='center'>
+  <p align='left'>
     <img width="40%" src="https://github.com/totonantoko/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only"/>
     <img width="40%" src="https://github.com/totonantoko/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only"/>
   </p>
